@@ -1,0 +1,92 @@
+{
+  "bl": {
+    "0.9.5": "c06b797af085ea00bc527afc8efcf11de2232054"
+  },
+  "commist": {
+    "1.0.0": "c0c352501cf6f52e9124e3ef89c9806e2022ebef"
+  },
+  "concat-stream": {
+    "1.5.1": "f3b80acf9e1f48e3875c0688b41b6c31602eea1c"
+  },
+  "core-util-is": {
+    "1.0.2": "b5fd54220aa2bc5ab57aab7140c940754503c1a7"
+  },
+  "duplexify": {
+    "3.4.3": "af6a7b10d928b095f8ad854d072bb90998db850d"
+  },
+  "end-of-stream": {
+    "1.0.0": "d4596e702734a93e40e9af864319eabd99ff2f0e",
+    "1.1.0": "e9353258baa9108965efc41cb0ef8ade2f3cfb07"
+  },
+  "help-me": {
+    "0.1.0": "0fb3a40537ad5265b6b49413022c60d35b49539a"
+  },
+  "inherits": {
+    "2.0.1": "b17d08d326b4423e568eff719f91b0b1cbdf69f1"
+  },
+  "isarray": {
+    "0.0.1": "8a18acfca9a8f4177e09abfc6038939b05d1eedf",
+    "1.0.0": "bb935d48582cba168c06834957a54a3e07124f11"
+  },
+  "leven": {
+    "1.0.2": "9144b6eebca5f1d0680169f1a6770dcea60b75c3"
+  },
+  "minimist": {
+    "1.2.0": "a35008b20f41383eec1fb914f4cd5df79a264284"
+  },
+  "mqtt-connection": {
+    "2.1.1": "7b2e985a74e196619430bebd35da162c34c4e56a"
+  },
+  "mqtt-packet": {
+    "3.4.6": "644ae77638fd3814151112bc67b9fc7f36d650e3"
+  },
+  "once": {
+    "1.3.3": "b2e261557ce4c314ec8304f3fa82663e4297ca20"
+  },
+  "options": {
+    "0.0.6": "ec22d312806bb53e731773e7cdaefcf1c643128f"
+  },
+  "process-nextick-args": {
+    "1.0.6": "0f96b001cea90b12592ce566edb97ec11e69bd05"
+  },
+  "pump": {
+    "1.0.1": "f1f1409fb9bd1085bbdb576b43b84ec4b5eadc1a"
+  },
+  "readable-stream": {
+    "1.0.33": "3a360dd66c1b1d7fd4705389860eda1d0f61126c",
+    "2.0.6": "8f90341e68a53ccc928788dacfcd11b36eb9b78e"
+  },
+  "reduplexer": {
+    "1.1.0": "7dfed18a679e749c1d7ad36de01acb515f08e140"
+  },
+  "reinterval": {
+    "1.0.2": "029056fb7637844bec872f36f2c07b0d7c112e6d"
+  },
+  "string_decoder": {
+    "0.10.31": "62e203bc41766c6c28c9fc84301dab1c5310fa94"
+  },
+  "through2": {
+    "2.0.1": "384e75314d49f32de12eebb8136b8eb6b5d59da9"
+  },
+  "typedarray": {
+    "0.0.6": "867ac74e3864187b1d3d47d996a78ec5c8830777"
+  },
+  "ultron": {
+    "1.0.2": "ace116ab557cd197386a4e88f4685378c8b2e4fa"
+  },
+  "util-deprecate": {
+    "1.0.2": "450d4dc9fa70de732762fbd2d4a28981419a0ccf"
+  },
+  "websocket-stream": {
+    "3.1.0": "c6d9d13230b77e474c4b6736c295bba77cdd7f87"
+  },
+  "wrappy": {
+    "1.0.1": "1e65969965ccbc2db4548c6b84a6f2c5aedd4739"
+  },
+  "ws": {
+    "1.0.1": "7d0b2a2e58cddd819039c29c9de65045e1b310e9"
+  },
+  "xtend": {
+    "4.0.1": "a5c6d532be656e23db820efb943a1f04998d63af"
+  }
+}
