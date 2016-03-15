@@ -1,0 +1,56 @@
+{
+  "bl": {
+    "1.0.3": "fc5421a28fd4226036c3b3891a66a25bc64d226e"
+  },
+  "capitalize": {
+    "1.0.0": "dc802c580aee101929020d2ca14b4ca8a0ae44be"
+  },
+  "coap-packet": {
+    "0.1.13": "cdd9dae33e1f1cc488a0750370d80c56c9b98b0b"
+  },
+  "core-util-is": {
+    "1.0.2": "b5fd54220aa2bc5ab57aab7140c940754503c1a7"
+  },
+  "debug": {
+    "2.2.0": "f87057e995b1a1f6ae6a4960664137bc56f039da"
+  },
+  "fastseries": {
+    "1.7.2": "d22ce13b9433dff3388d91dbd6b8bda9b21a0f4b"
+  },
+  "inherits": {
+    "2.0.1": "b17d08d326b4423e568eff719f91b0b1cbdf69f1"
+  },
+  "isarray": {
+    "1.0.0": "bb935d48582cba168c06834957a54a3e07124f11"
+  },
+  "lru-cache": {
+    "4.0.0": "b5cbf01556c16966febe54ceec0fb4dc90df6c28"
+  },
+  "ms": {
+    "0.7.1": "9cd13c03adbff25b65effde7ce864ee952017098"
+  },
+  "process-nextick-args": {
+    "1.0.6": "0f96b001cea90b12592ce566edb97ec11e69bd05"
+  },
+  "pseudomap": {
+    "1.0.2": "f052a28da70e618917ef0a8ac34c1ae5a68286b3"
+  },
+  "readable-stream": {
+    "2.0.6": "8f90341e68a53ccc928788dacfcd11b36eb9b78e"
+  },
+  "reusify": {
+    "1.0.1": "f53584367adc825c87431917263fc7aa19118693"
+  },
+  "string_decoder": {
+    "0.10.31": "62e203bc41766c6c28c9fc84301dab1c5310fa94"
+  },
+  "util-deprecate": {
+    "1.0.2": "450d4dc9fa70de732762fbd2d4a28981419a0ccf"
+  },
+  "xtend": {
+    "4.0.1": "a5c6d532be656e23db820efb943a1f04998d63af"
+  },
+  "yallist": {
+    "2.0.0": "306c543835f09ee1a4cb23b7bce9ab341c91cdd4"
+  }
+}

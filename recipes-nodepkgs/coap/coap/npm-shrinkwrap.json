@@ -1,0 +1,68 @@
+{
+  "name": "coap",
+  "version": "0.14.0",
+  "dependencies": {
+    "bl": {
+      "version": "1.0.3"
+    },
+    "capitalize": {
+      "version": "1.0.0"
+    },
+    "coap-packet": {
+      "version": "0.1.13"
+    },
+    "debug": {
+      "version": "2.2.0",
+      "dependencies": {
+        "ms": {
+          "version": "0.7.1"
+        }
+      }
+    },
+    "fastseries": {
+      "version": "1.7.2",
+      "dependencies": {
+        "reusify": {
+          "version": "1.0.1"
+        },
+        "xtend": {
+          "version": "4.0.1"
+        }
+      }
+    },
+    "lru-cache": {
+      "version": "4.0.0",
+      "dependencies": {
+        "pseudomap": {
+          "version": "1.0.2"
+        },
+        "yallist": {
+          "version": "2.0.0"
+        }
+      }
+    },
+    "readable-stream": {
+      "version": "2.0.6",
+      "dependencies": {
+        "core-util-is": {
+          "version": "1.0.2"
+        },
+        "inherits": {
+          "version": "2.0.1"
+        },
+        "isarray": {
+          "version": "1.0.0"
+        },
+        "process-nextick-args": {
+          "version": "1.0.6"
+        },
+        "string_decoder": {
+          "version": "0.10.31"
+        },
+        "util-deprecate": {
+          "version": "1.0.2"
+        }
+      }
+    }
+  }
+}
